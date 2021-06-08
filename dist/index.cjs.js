@@ -2225,12 +2225,12 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "https://t.me/joinchat/hnmbah0nhFwzNDFh",
+        href: "https://t.me/DecentralizedLions",
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/firedragonfinan",
+        href: "http://Twitter.com/goldenlionfinan",
     },
 ];
 var MENU_HEIGHT = 74;
