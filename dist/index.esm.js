@@ -2212,12 +2212,12 @@ var socials = [
     {
         label: "Telegram",
         icon: "TelegramIcon",
-        href: "http://t.me/decentralizedlionsgroup",
+        href: "https://t.me/Goldlionfianancegroup",
     },
     {
         label: "Twitter",
         icon: "TwitterIcon",
-        href: "https://twitter.com/goldenlionfinan",
+        href: "https://twitter.com/FinanceGolde",
     },
 ];
 var MENU_HEIGHT = 74;
